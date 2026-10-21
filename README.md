@@ -4,9 +4,9 @@
 
 BillWise lets you upload an Indian hospital or pharmacy bill and shows which charges have a government price ceiling (NPPA), and where each charge sits against it. Every result shows its arithmetic and the government order it comes from, and lines it can't check are marked grey instead of guessed.
 
-🔗 **Source code:** https://github.com/Alternateacc-1/BillWise_Project
-🌐 **Live app:** https://prod.d29dj39cdf0dkb.amplifyapp.com/
-🔗 **Verify Certificate:** https://www.wemakedevs.org/certificates/5Q9P67YT4T
+🔗 **Source code:** [BillWise Project Repository](https://github.com/Alternateacc-1/BillWise_Project)  
+🌐 **Live app:** [BillWise Live Application](https://prod.d29dj39cdf0dkb.amplifyapp.com/)  
+🔗 **Verify Certificate:** [WeMakeDevs Certificate Verification](https://www.wemakedevs.org/certificates/5Q9P67YT4T)
 
 ---
 
