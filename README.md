@@ -6,6 +6,7 @@ BillWise lets you upload an Indian hospital or pharmacy bill and shows which cha
 
 🔗 **Source code:** https://github.com/Alternateacc-1/BillWise_Project
 🌐 **Live app:** https://prod.d29dj39cdf0dkb.amplifyapp.com/
+🔗 **Verify Certificate:** https://www.wemakedevs.org/certificates/5Q9P67YT4T
 
 ---
 
@@ -18,7 +19,7 @@ BillWise lets you upload an Indian hospital or pharmacy bill and shows which cha
 ## 🏆 Certificate
 
 <p align="center">
-  <img src="bharatbuilds satvikcert.png" alt="Certificate of Participation — Viren Sawant, Bharat Builds Tour: First Commit, WeMakeDevs × AWS" width="750">
+  <img src="bharatbuilds satvikcert2.png" alt="Certificate of Participation — Viren Sawant, Bharat Builds Tour: First Commit, WeMakeDevs × AWS" width="750">
 </p>
 
 ---
